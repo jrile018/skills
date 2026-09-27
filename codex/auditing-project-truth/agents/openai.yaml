@@ -1,0 +1,3 @@
+interface:
+  display_name: "Auditing Project Truth"
+  short_description: "Reconcile project claims with live evidence"

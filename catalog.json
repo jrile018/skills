@@ -1,0 +1,2187 @@
+[
+  {
+    "source_group": "agents",
+    "path": "agents/tdd",
+    "name": "tdd"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/tdd",
+    "name": "tdd"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-do",
+    "name": "gsd-do"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-do",
+    "name": "gsd-do"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/caveman",
+    "name": "caveman"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/connect",
+    "name": "connect"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/caveman",
+    "name": "caveman"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-fast",
+    "name": "gsd-fast"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-help",
+    "name": "gsd-help"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-next",
+    "name": "gsd-next"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-note",
+    "name": "gsd-note"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-scan",
+    "name": "gsd-scan"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ship",
+    "name": "gsd-ship"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-undo",
+    "name": "gsd-undo"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-fast",
+    "name": "gsd-fast"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-help",
+    "name": "gsd-help"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-next",
+    "name": "gsd-next"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-note",
+    "name": "gsd-note"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-scan",
+    "name": "gsd-scan"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ship",
+    "name": "gsd-ship"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-undo",
+    "name": "gsd-undo"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-debug",
+    "name": "gsd-debug"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-inbox",
+    "name": "gsd-inbox"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-intel",
+    "name": "gsd-intel"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-quick",
+    "name": "gsd-quick"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-spike",
+    "name": "gsd-spike"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-stats",
+    "name": "gsd-stats"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-debug",
+    "name": "gsd-debug"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-inbox",
+    "name": "gsd-inbox"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-intel",
+    "name": "gsd-intel"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-quick",
+    "name": "gsd-quick"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-spike",
+    "name": "gsd-spike"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-stats",
+    "name": "gsd-stats"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-health",
+    "name": "gsd-health"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-import",
+    "name": "gsd-import"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-review",
+    "name": "gsd-review"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-sketch",
+    "name": "gsd-sketch"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-thread",
+    "name": "gsd-thread"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-update",
+    "name": "gsd-update"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/latex-math",
+    "name": "latex-math"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-health",
+    "name": "gsd-health"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-import",
+    "name": "gsd-import"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-review",
+    "name": "gsd-review"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-sketch",
+    "name": "gsd-sketch"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-thread",
+    "name": "gsd-thread"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-update",
+    "name": "gsd-update"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/latex-math",
+    "name": "latex-math"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-cleanup",
+    "name": "gsd-cleanup"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-explore",
+    "name": "gsd-explore"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-manager",
+    "name": "gsd-manager"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/lean-router",
+    "name": "lean-router"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/mcp-builder",
+    "name": "mcp-builder"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/skill-share",
+    "name": "skill-share"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/toon-format",
+    "name": "toon-format"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-cleanup",
+    "name": "gsd-cleanup"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-explore",
+    "name": "gsd-explore"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-manager",
+    "name": "gsd-manager"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/lean-router",
+    "name": "lean-router"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/mcp-builder",
+    "name": "mcp-builder"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/toon-format",
+    "name": "toon-format"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/connect-apps",
+    "name": "connect-apps"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-add-todo",
+    "name": "gsd-add-todo"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-graphify",
+    "name": "gsd-graphify"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-progress",
+    "name": "gsd-progress"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-settings",
+    "name": "gsd-settings"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ui-phase",
+    "name": "gsd-ui-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/model-router",
+    "name": "model-router"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/progress-bar",
+    "name": "progress-bar"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/icm-architect",
+    "name": "icm-architect"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-add-todo",
+    "name": "gsd-add-todo"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-graphify",
+    "name": "gsd-graphify"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-progress",
+    "name": "gsd-progress"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-settings",
+    "name": "gsd-settings"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ui-phase",
+    "name": "gsd-ui-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/model-router",
+    "name": "model-router"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/progress-bar",
+    "name": "progress-bar"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/canvas-design",
+    "name": "canvas-design"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/claude-router",
+    "name": "claude-router"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/doc-optimizer",
+    "name": "doc-optimizer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-add-phase",
+    "name": "gsd-add-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-add-tests",
+    "name": "gsd-add-tests"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-audit-fix",
+    "name": "gsd-audit-fix"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-audit-uat",
+    "name": "gsd-audit-uat"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-forensics",
+    "name": "gsd-forensics"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-from-gsd2",
+    "name": "gsd-from-gsd2"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-pr-branch",
+    "name": "gsd-pr-branch"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ui-review",
+    "name": "gsd-ui-review"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/skill-creator",
+    "name": "skill-creator"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/theme-factory",
+    "name": "theme-factory"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/claude-router",
+    "name": "claude-router"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/doc-optimizer",
+    "name": "doc-optimizer"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-add-phase",
+    "name": "gsd-add-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-add-tests",
+    "name": "gsd-add-tests"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-audit-fix",
+    "name": "gsd-audit-fix"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-audit-uat",
+    "name": "gsd-audit-uat"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-forensics",
+    "name": "gsd-forensics"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-from-gsd2",
+    "name": "gsd-from-gsd2"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-pr-branch",
+    "name": "gsd-pr-branch"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ui-review",
+    "name": "gsd-ui-review"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/skill-creator",
+    "name": "skill-creator"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/theme-factory",
+    "name": "theme-factory"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/file-organizer",
+    "name": "file-organizer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-autonomous",
+    "name": "gsd-autonomous"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-pause-work",
+    "name": "gsd-pause-work"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-plan-phase",
+    "name": "gsd-plan-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-plant-seed",
+    "name": "gsd-plant-seed"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-spec-phase",
+    "name": "gsd-spec-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/image-enhancer",
+    "name": "image-enhancer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/internal-comms",
+    "name": "internal-comms"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/quant-research",
+    "name": "quant-research"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/template-skill",
+    "name": "template-skill"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/token-analyzer",
+    "name": "token-analyzer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/webapp-testing",
+    "name": "webapp-testing"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-autonomous",
+    "name": "gsd-autonomous"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-pause-work",
+    "name": "gsd-pause-work"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-plan-phase",
+    "name": "gsd-plan-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-plant-seed",
+    "name": "gsd-plant-seed"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-spec-phase",
+    "name": "gsd-spec-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/internal-comms",
+    "name": "internal-comms"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/quant-research",
+    "name": "quant-research"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/template-skill",
+    "name": "template-skill"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/token-analyzer",
+    "name": "token-analyzer"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/webapp-testing",
+    "name": "webapp-testing"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-add-backlog",
+    "name": "gsd-add-backlog"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-check-todos",
+    "name": "gsd-check-todos"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-code-review",
+    "name": "gsd-code-review"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-docs-update",
+    "name": "gsd-docs-update"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-eval-review",
+    "name": "gsd-eval-review"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ingest-docs",
+    "name": "gsd-ingest-docs"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-new-project",
+    "name": "gsd-new-project"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-resume-work",
+    "name": "gsd-resume-work"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-set-profile",
+    "name": "gsd-set-profile"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-verify-work",
+    "name": "gsd-verify-work"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-workstreams",
+    "name": "gsd-workstreams"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/langsmith-fetch",
+    "name": "langsmith-fetch"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/token-efficient",
+    "name": "token-efficient"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/imagegen",
+    "name": "imagegen"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-add-backlog",
+    "name": "gsd-add-backlog"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-check-todos",
+    "name": "gsd-check-todos"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-code-review",
+    "name": "gsd-code-review"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-docs-update",
+    "name": "gsd-docs-update"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-eval-review",
+    "name": "gsd-eval-review"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ingest-docs",
+    "name": "gsd-ingest-docs"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-new-project",
+    "name": "gsd-new-project"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-resume-work",
+    "name": "gsd-resume-work"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-set-profile",
+    "name": "gsd-set-profile"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-verify-work",
+    "name": "gsd-verify-work"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-workstreams",
+    "name": "gsd-workstreams"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/token-efficient",
+    "name": "token-efficient"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/brand-guidelines",
+    "name": "brand-guidelines"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-insert-phase",
+    "name": "gsd-insert-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-join-discord",
+    "name": "gsd-join-discord"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-map-codebase",
+    "name": "gsd-map-codebase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-profile-user",
+    "name": "gsd-profile-user"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-remove-phase",
+    "name": "gsd-remove-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-secure-phase",
+    "name": "gsd-secure-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-insert-phase",
+    "name": "gsd-insert-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-join-discord",
+    "name": "gsd-join-discord"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-map-codebase",
+    "name": "gsd-map-codebase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-profile-user",
+    "name": "gsd-profile-user"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-remove-phase",
+    "name": "gsd-remove-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-secure-phase",
+    "name": "gsd-secure-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/artifacts-builder",
+    "name": "artifacts-builder"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-discuss-phase",
+    "name": "gsd-discuss-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-execute-phase",
+    "name": "gsd-execute-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-new-milestone",
+    "name": "gsd-new-milestone"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-new-workspace",
+    "name": "gsd-new-workspace"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-spike-wrap-up",
+    "name": "gsd-spike-wrap-up"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/harness-optimizer",
+    "name": "harness-optimizer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/invoice-organizer",
+    "name": "invoice-organizer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/slack-gif-creator",
+    "name": "slack-gif-creator"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/artifacts-builder",
+    "name": "artifacts-builder"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-discuss-phase",
+    "name": "gsd-discuss-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-execute-phase",
+    "name": "gsd-execute-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-new-milestone",
+    "name": "gsd-new-milestone"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-new-workspace",
+    "name": "gsd-new-workspace"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-spike-wrap-up",
+    "name": "gsd-spike-wrap-up"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/harness-optimizer",
+    "name": "harness-optimizer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-research-phase",
+    "name": "gsd-research-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-review-backlog",
+    "name": "gsd-review-backlog"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-session-report",
+    "name": "gsd-session-report"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-sketch-wrap-up",
+    "name": "gsd-sketch-wrap-up"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-validate-phase",
+    "name": "gsd-validate-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/youtube-downloader",
+    "name": "youtube-downloader"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/openai-docs",
+    "name": "openai-docs"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-research-phase",
+    "name": "gsd-research-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-review-backlog",
+    "name": "gsd-review-backlog"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-session-report",
+    "name": "gsd-session-report"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-sketch-wrap-up",
+    "name": "gsd-sketch-wrap-up"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-validate-phase",
+    "name": "gsd-validate-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/changelog-generator",
+    "name": "changelog-generator"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-audit-milestone",
+    "name": "gsd-audit-milestone"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-code-review-fix",
+    "name": "gsd-code-review-fix"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-list-workspaces",
+    "name": "gsd-list-workspaces"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-reapply-patches",
+    "name": "gsd-reapply-patches"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ultraplan-phase",
+    "name": "gsd-ultraplan-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/karpathy-guidelines",
+    "name": "karpathy-guidelines"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/token-optimizer-mcp",
+    "name": "token-optimizer-mcp"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/review-agent",
+    "name": "review-agent"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/changelog-generator",
+    "name": "changelog-generator"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-audit-milestone",
+    "name": "gsd-audit-milestone"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-code-review-fix",
+    "name": "gsd-code-review-fix"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-list-workspaces",
+    "name": "gsd-list-workspaces"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-reapply-patches",
+    "name": "gsd-reapply-patches"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ultraplan-phase",
+    "name": "gsd-ultraplan-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/karpathy-guidelines",
+    "name": "karpathy-guidelines"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/token-optimizer-mcp",
+    "name": "token-optimizer-mcp"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/claude-code-insights",
+    "name": "claude-code-insights"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-remove-workspace",
+    "name": "gsd-remove-workspace"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/project-architecture",
+    "name": "project-architecture"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/raffle-winner-picker",
+    "name": "raffle-winner-picker"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/source-command-prime",
+    "name": "source-command-prime"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/skill-creator",
+    "name": "skill-creator"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/explaining-for-recall",
+    "name": "explaining-for-recall"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/claude-code-insights",
+    "name": "claude-code-insights"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-remove-workspace",
+    "name": "gsd-remove-workspace"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/project-architecture",
+    "name": "project-architecture"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-extract_learnings",
+    "name": "gsd-extract_learnings"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-milestone-summary",
+    "name": "gsd-milestone-summary"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/source-command-commit",
+    "name": "source-command-commit"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/source-command-review",
+    "name": "source-command-review"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/plugin-creator",
+    "name": "plugin-creator"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/auditing-project-truth",
+    "name": "auditing-project-truth"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-extract_learnings",
+    "name": "gsd-extract_learnings"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-milestone-summary",
+    "name": "gsd-milestone-summary"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-complete-milestone",
+    "name": "gsd-complete-milestone"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/source-command-handoff",
+    "name": "source-command-handoff"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/.system/skill-installer",
+    "name": "skill-installer"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/finishing-approved-work",
+    "name": "finishing-approved-work"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-complete-milestone",
+    "name": "gsd-complete-milestone"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/content-research-writer",
+    "name": "content-research-writer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-plan-milestone-gaps",
+    "name": "gsd-plan-milestone-gaps"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/lead-research-assistant",
+    "name": "lead-research-assistant"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-plan-milestone-gaps",
+    "name": "gsd-plan-milestone-gaps"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/domain-name-brainstormer",
+    "name": "domain-name-brainstormer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-ai-integration-phase",
+    "name": "gsd-ai-integration-phase"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-analyze-dependencies",
+    "name": "gsd-analyze-dependencies"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-ai-integration-phase",
+    "name": "gsd-ai-integration-phase"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-analyze-dependencies",
+    "name": "gsd-analyze-dependencies"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/competitive-ads-extractor",
+    "name": "competitive-ads-extractor"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/developer-growth-analysis",
+    "name": "developer-growth-analysis"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/meeting-insights-analyzer",
+    "name": "meeting-insights-analyzer"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/tailored-resume-generator",
+    "name": "tailored-resume-generator"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/gsd-list-phase-assumptions",
+    "name": "gsd-list-phase-assumptions"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/bringing-up-hardware-stacks",
+    "name": "bringing-up-hardware-stacks"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/gsd-list-phase-assumptions",
+    "name": "gsd-list-phase-assumptions"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/twitter-algorithm-optimizer",
+    "name": "twitter-algorithm-optimizer"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/publishing-private-repositories",
+    "name": "publishing-private-repositories"
+  },
+  {
+    "source_group": "codex",
+    "path": "codex/ranking-evidence-backed-options",
+    "name": "ranking-evidence-backed-options"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/do",
+    "name": "do"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/do",
+    "name": "do"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/cms",
+    "name": "cms"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/eve",
+    "name": "eve"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/ncc",
+    "name": "ncc"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/swr",
+    "name": "swr"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/make-plan",
+    "name": "make-plan"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/auth",
+    "name": "auth"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/obsidian-skills/obsidian/1.0.1/skills/defuddle",
+    "name": "defuddle"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/mem-search",
+    "name": "mem-search"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-bundled/visualize/1.0.38/skills/visualize",
+    "name": "visualize"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/email",
+    "name": "email"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/geist",
+    "name": "geist"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/micro",
+    "name": "micro"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/ai-sdk",
+    "name": "ai-sdk"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/nextjs",
+    "name": "nextjs"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/satori",
+    "name": "satori"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/shadcn",
+    "name": "shadcn"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/v0-dev",
+    "name": "v0-dev"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/version-bump",
+    "name": "version-bump"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/babysit",
+    "name": "babysit"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/standup",
+    "name": "standup"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/pdf/26.909.61513/skills/pdf",
+    "name": "pdf"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/obsidian-skills/obsidian/1.0.1/skills/json-canvas",
+    "name": "json-canvas"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/smart-explore",
+    "name": "smart-explore"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/what-the",
+    "name": "what-the"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/chat-sdk",
+    "name": "chat-sdk"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/env-vars",
+    "name": "env-vars"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/payments",
+    "name": "payments"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/workflow",
+    "name": "workflow"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/obsidian-skills/obsidian/1.0.1/skills/obsidian-cli",
+    "name": "obsidian-cli"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/ccs-align",
+    "name": "ccs-align"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/design-is",
+    "name": "design-is"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/make-plan",
+    "name": "make-plan"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/bootstrap",
+    "name": "bootstrap"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/cron-jobs",
+    "name": "cron-jobs"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/geistdocs",
+    "name": "geistdocs"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/turbopack",
+    "name": "turbopack"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/turborepo",
+    "name": "turborepo"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/knowledge-agent",
+    "name": "knowledge-agent"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/thedotmack/claude-mem/12.1.0/skills/timeline-report",
+    "name": "timeline-report"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/cloud-sync",
+    "name": "cloud-sync"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/mem-search",
+    "name": "mem-search"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/pathfinder",
+    "name": "pathfinder"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/wowerpoint",
+    "name": "wowerpoint"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/ai-gateway",
+    "name": "ai-gateway"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/next-forge",
+    "name": "next-forge"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-api",
+    "name": "vercel-api"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-cli",
+    "name": "vercel-cli"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/obsidian-skills/obsidian/1.0.1/skills/obsidian-bases",
+    "name": "obsidian-bases"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/ai-elements",
+    "name": "ai-elements"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/cdn-caching",
+    "name": "cdn-caching"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/json-render",
+    "name": "json-render"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/marketplace",
+    "name": "marketplace"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/how-it-works",
+    "name": "how-it-works"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/mode-creator",
+    "name": "mode-creator"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/oh-my-issues",
+    "name": "oh-my-issues"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/version-bump",
+    "name": "version-bump"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/sites/0.1.71/skills/sites-hosting",
+    "name": "sites-hosting"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/next-upgrade",
+    "name": "next-upgrade"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-agent",
+    "name": "vercel-agent"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-flags",
+    "name": "vercel-flags"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/verification",
+    "name": "verification"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/smart-explore",
+    "name": "smart-explore"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/sites/0.1.71/skills/sites-building",
+    "name": "sites-building"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/agent-browser",
+    "name": "agent-browser"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/observability",
+    "name": "observability"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/runtime-cache",
+    "name": "runtime-cache"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-queues",
+    "name": "vercel-queues"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/obsidian-skills/obsidian/1.0.1/skills/obsidian-markdown",
+    "name": "obsidian-markdown"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/learn-codebase",
+    "name": "learn-codebase"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/weekly-digests",
+    "name": "weekly-digests"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/microfrontends",
+    "name": "microfrontends"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-connect",
+    "name": "vercel-connect"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-sandbox",
+    "name": "vercel-sandbox"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-storage",
+    "name": "vercel-storage"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/knowledge-agent",
+    "name": "knowledge-agent"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-mem-local/claude-mem/13.25.3/skills/timeline-report",
+    "name": "timeline-report"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-firewall",
+    "name": "vercel-firewall"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-services",
+    "name": "vercel-services"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/deployments-cicd",
+    "name": "deployments-cicd"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/knowledge-update",
+    "name": "knowledge-update"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/vercel-functions",
+    "name": "vercel-functions"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-bundled/computer-use/26.915.31029/skills/computer-use",
+    "name": "computer-use"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/investigation-mode",
+    "name": "investigation-mode"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/routing-middleware",
+    "name": "routing-middleware"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/brand",
+    "name": "brand"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/brainstorming",
+    "name": "brainstorming"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/writing-plans",
+    "name": "writing-plans"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/sign-in-with-vercel",
+    "name": "sign-in-with-vercel"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/documents/26.909.61513/skills/documents",
+    "name": "documents"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/design",
+    "name": "design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/slides",
+    "name": "slides"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/writing-skills",
+    "name": "writing-skills"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/agent-browser-verify",
+    "name": "agent-browser-verify"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/react-best-practices",
+    "name": "react-best-practices"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/brainstorming",
+    "name": "brainstorming"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/writing-plans",
+    "name": "writing-plans"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/brainstorming",
+    "name": "brainstorming"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/writing-plans",
+    "name": "writing-plans"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/executing-plans",
+    "name": "executing-plans"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/next-cache-components",
+    "name": "next-cache-components"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/writing-skills",
+    "name": "writing-skills"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/writing-skills",
+    "name": "writing-skills"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-bundled/browser/26.915.31029/skills/control-in-app-browser",
+    "name": "control-in-app-browser"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/executing-plans",
+    "name": "executing-plans"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/executing-plans",
+    "name": "executing-plans"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/using-superpowers",
+    "name": "using-superpowers"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/ui-styling",
+    "name": "ui-styling"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/using-superpowers",
+    "name": "using-superpowers"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/using-superpowers",
+    "name": "using-superpowers"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/using-git-worktrees",
+    "name": "using-git-worktrees"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/vercel/0.21.4/skills/ai-generation-persistence",
+    "name": "ai-generation-persistence"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/spreadsheets/26.909.61513/skills/spreadsheets",
+    "name": "spreadsheets"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/systematic-debugging",
+    "name": "systematic-debugging"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/using-git-worktrees",
+    "name": "using-git-worktrees"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/using-git-worktrees",
+    "name": "using-git-worktrees"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/banner-design",
+    "name": "banner-design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/design-system",
+    "name": "design-system"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/ui-ux-pro-max-skill/ui-ux-pro-max/2.5.0/.claude/skills/ui-ux-pro-max",
+    "name": "ui-ux-pro-max"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/receiving-code-review",
+    "name": "receiving-code-review"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/plugin-management/0.1.0/skills/plugin-management",
+    "name": "plugin-management"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/presentations/26.909.61513/skills/presentations",
+    "name": "presentations"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/systematic-debugging",
+    "name": "systematic-debugging"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/systematic-debugging",
+    "name": "systematic-debugging"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/diagnosing-superpowers",
+    "name": "diagnosing-superpowers"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/requesting-code-review",
+    "name": "requesting-code-review"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/sites/0.1.71/skills/sites-preview-troubleshooting",
+    "name": "sites-preview-troubleshooting"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/receiving-code-review",
+    "name": "receiving-code-review"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/receiving-code-review",
+    "name": "receiving-code-review"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/test-driven-development",
+    "name": "test-driven-development"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/requesting-code-review",
+    "name": "requesting-code-review"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/diagnosing-superpowers",
+    "name": "diagnosing-superpowers"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/requesting-code-review",
+    "name": "requesting-code-review"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/test-driven-development",
+    "name": "test-driven-development"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/test-driven-development",
+    "name": "test-driven-development"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/spreadsheets/26.909.61513/skills/excel-live-control",
+    "name": "excel-live-control"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/subagent-driven-development",
+    "name": "subagent-driven-development"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-primary-runtime/template-creator/26.909.61513/skills/template-creator",
+    "name": "template-creator"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/frontend-design/6bfd4e0c6d3d/skills/frontend-design",
+    "name": "frontend-design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/frontend-design/91e7a265a87d/skills/frontend-design",
+    "name": "frontend-design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/frontend-design/ad30d62cd52a/skills/frontend-design",
+    "name": "frontend-design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/subagent-driven-development",
+    "name": "subagent-driven-development"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/subagent-driven-development",
+    "name": "subagent-driven-development"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/skills/planning-with-files-zh",
+    "name": "planning-with-files-zh"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.pi/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/skills/planning-with-files-zht",
+    "name": "planning-with-files-zht"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/finishing-a-development-branch",
+    "name": "finishing-a-development-branch"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/claude-plugins-official/superpowers/6.4.1/skills/verification-before-completion",
+    "name": "verification-before-completion"
+  },
+  {
+    "source_group": "agents",
+    "path": "agents/recursive-decomposition/plugins/recursive-decomposition/skills/recursive-decomposition",
+    "name": "recursive-decomposition"
+  },
+  {
+    "source_group": "claude",
+    "path": "claude/recursive-decomposition/plugins/recursive-decomposition/skills/recursive-decomposition",
+    "name": "recursive-decomposition"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/finishing-a-development-branch",
+    "name": "finishing-a-development-branch"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.3.0/skills/verification-before-completion",
+    "name": "verification-before-completion"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/finishing-a-development-branch",
+    "name": "finishing-a-development-branch"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/claude-plugins-official/superpowers/6.4.1/skills/verification-before-completion",
+    "name": "verification-before-completion"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.kiro/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.codex/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.cursor/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.gemini/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-design-report",
+    "name": "artifact-template-design-report"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-system-design",
+    "name": "artifact-template-system-design"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.factory/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-sales-pipeline",
+    "name": "artifact-template-sales-pipeline"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-team-alignment",
+    "name": "artifact-template-team-alignment"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.continue/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.opencode/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-business-review",
+    "name": "artifact-template-business-review"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-kickoff",
+    "name": "artifact-template-project-kickoff"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-project-tracker",
+    "name": "artifact-template-project-tracker"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.codebuddy/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-financial-budget",
+    "name": "artifact-template-financial-budget"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-legal-memorandum",
+    "name": "artifact-template-legal-memorandum"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-review",
+    "name": "artifact-template-operating-review"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-dark-mode",
+    "name": "artifact-template-simple-dark-mode"
+  },
+  {
+    "source_group": "claude-plugins",
+    "path": "claude-plugins/planning-with-files/planning-with-files/2.23.0/.mastracode/skills/planning-with-files",
+    "name": "planning-with-files"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-simple-light-mode",
+    "name": "artifact-template-simple-light-mode"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-minimal-letterhead",
+    "name": "artifact-template-minimal-letterhead"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-operating-calendar",
+    "name": "artifact-template-operating-calendar"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-analytics-dashboard",
+    "name": "artifact-template-analytics-dashboard"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-experiment-analysis",
+    "name": "artifact-template-experiment-analysis"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-strategy-memorandum",
+    "name": "artifact-template-strategy-memorandum"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-market-trends-report",
+    "name": "artifact-template-market-trends-report"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-three-statement-forecast",
+    "name": "artifact-template-three-statement-forecast"
+  },
+  {
+    "source_group": "codex-plugins",
+    "path": "codex-plugins/openai-curated-remote/openai-templates/0.1.1/skills/artifact-template-investment-committee-memo",
+    "name": "artifact-template-investment-committee-memo"
+  }
+]
