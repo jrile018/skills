@@ -30,6 +30,10 @@ Run sync after installing, removing, or updating a skill or plugin. It follows t
 
 Validation runs the bundled current Codex validator against every catalog entry. `validator-exceptions.json` records five narrow upstream incompatibilities; validation fails if a new incompatibility appears or an exception becomes stale.
 
+## Evaluation baselines
+
+Portfolio-wide external evaluations live under `evaluations/`. The current NVIDIA SkillEvaluator baseline is [`evaluations/skillevaluator-2026-09-30-quality/README.md`](evaluations/skillevaluator-2026-09-30-quality/README.md). Its aggregate JSON preserves every score and finding; per-skill raw renderer output is intentionally ignored because it duplicates that data and embeds workstation-local paths.
+
 See [`docs/USAGE.md`](docs/USAGE.md) for the recommended profiles and day-to-day workflow.
 
 Third-party material retains its original licensing. A license is included when it is bundled inside the copied skill directory; otherwise consult the recorded upstream repository.
