@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rigorous Mathematical Finance"
+  short_description: "Derive and verify mathematical-finance results"
+  default_prompt: "Use $rigorous-mathematical-finance to derive and verify this advanced mathematical-finance result."

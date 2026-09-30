@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grounded Research Workflow"
+  short_description: "Research with sources, claims, and verification"
+  default_prompt: "Use $grounded-research-workflow to research this question with verifiable sources."

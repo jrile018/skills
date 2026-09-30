@@ -1,0 +1,4 @@
+interface:
+  display_name: "Low-Latency Quant Systems"
+  short_description: "Engineer verified low-latency trading systems"
+  default_prompt: "Use $low-latency-quant-systems to diagnose and verify this trading system latency problem."

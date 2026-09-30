@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ingenius Quant Finance"
+  short_description: "Source-grounded quantitative finance study"
+  default_prompt: "Use $ingenius-quant-finance to analyze this quantitative-finance problem with explicit assumptions and verification."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,3 +1,0 @@
-interface:
-  display_name: "Bringing Up Hardware Stacks"
-  short_description: "Trace hardware from device to visible data"

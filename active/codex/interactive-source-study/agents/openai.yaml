@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interactive Source Study"
+  short_description: "Learn from papers, books, and source files"
+  default_prompt: "Use $interactive-source-study to help me understand this source deeply."

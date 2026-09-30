@@ -1,0 +1,4 @@
+interface:
+  display_name: "Investment Firm Systems"
+  short_description: "Design investment-firm workflows and controls"
+  default_prompt: "Use $investment-firm-systems to map or audit this investment-firm operating workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Market Microstructure & Execution"
+  short_description: "Analyze market mechanics and execution quality"
+  default_prompt: "Use $market-microstructure-execution to analyze this market microstructure or execution problem."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Progress Planning"
+  short_description: "Track every plan with explicit task progress"
+  default_prompt: "Use $progress-planning to break this work into tasks and show X/Y progress throughout."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robust Quant Optimization"
+  short_description: "Formulate and verify robust quant optimization"
+  default_prompt: "Use $robust-quant-optimization to formulate and verify this quantitative optimization problem."

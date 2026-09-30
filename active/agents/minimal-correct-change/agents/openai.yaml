@@ -1,0 +1,7 @@
+interface:
+  display_name: "Minimal Correct Change"
+  short_description: "Build the smallest change that preserves the contract"
+  default_prompt: "Use $minimal-correct-change to implement this with the smallest verified change that preserves every stated requirement."
+
+policy:
+  allow_implicit_invocation: true

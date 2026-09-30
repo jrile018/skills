@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hindsight Fit Assessor"
+  short_description: "Evaluate whether a project needs Hindsight"
+  default_prompt: "Use $hindsight-fit-assessor to assess whether this project should adopt Hindsight."

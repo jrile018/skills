@@ -1,0 +1,4 @@
+interface:
+  display_name: "Advanced Portfolio Theory"
+  short_description: "Construct and validate advanced portfolios"
+  default_prompt: "Use $advanced-portfolio-theory to design and validate this advanced portfolio decision."

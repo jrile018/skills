@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Output Auditor"
+  short_description: "Audit AI claims, calculations, code, and sources"
+  default_prompt: "Use $ai-output-auditor to audit this AI-generated result before I rely on it."

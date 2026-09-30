@@ -1,0 +1,7 @@
+interface:
+  display_name: "Context-Efficient Output"
+  short_description: "Make agent output compact without losing critical facts"
+  default_prompt: "Use $context-efficient-output to make this result compact while preserving everything needed to verify it or continue the work."
+
+policy:
+  allow_implicit_invocation: true

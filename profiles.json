@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "note": "Profiles are selection guidance only. They do not change skill triggers, permissions, or instruction precedence.",
+  "profiles": {
+    "agent-systems": {
+      "purpose": "Design, evaluate, and improve agent skills, harnesses, memory, and reusable workflows.",
+      "skill_paths": [
+        "managed/codex-system/skill-creator",
+        "owned/skill-router",
+        "active/codex/harness-creator",
+        "active/codex/hindsight-fit-assessor",
+        "active/codex/reusable-prompt-designer",
+        "active/agents/research-to-skill",
+        "owned/skillopt-sleep",
+        "active/agents/minimal-correct-change",
+        "active/agents/context-efficient-output"
+      ]
+    },
+    "core-development": {
+      "purpose": "Implement and verify repository changes with disciplined debugging and review.",
+      "skill_paths": [
+        "active/codex/systematic-debugging",
+        "active/codex/test-driven-development",
+        "active/codex/verification-before-completion",
+        "active/codex/receiving-code-review",
+        "active/codex/requesting-code-review",
+        "active/codex/using-git-worktrees",
+        "active/agents/minimal-correct-change"
+      ]
+    },
+    "quant-research": {
+      "purpose": "Route quantitative-finance work to the appropriate specialist skill.",
+      "skill_paths": [
+        "active/agents/ingenius-quant-finance",
+        "active/agents/advanced-portfolio-theory",
+        "active/agents/market-microstructure-execution",
+        "active/agents/low-latency-quant-systems",
+        "active/agents/reliable-quant-data-systems",
+        "active/agents/rigorous-mathematical-finance",
+        "active/agents/robust-quant-optimization",
+        "active/agents/investment-firm-systems"
+      ]
+    },
+    "research-and-audit": {
+      "purpose": "Research current questions, map repositories, study sources, and audit outputs.",
+      "skill_paths": [
+        "active/codex/grounded-research-workflow",
+        "active/codex/graphify",
+        "active/codex/interactive-source-study",
+        "active/codex/ai-output-auditor",
+        "active/codex/llm-task-strategist"
+      ]
+    },
+    "web-and-artifacts": {
+      "purpose": "Build and verify web applications and create polished office artifacts.",
+      "skill_paths": [
+        "managed/codex-plugins/openai-curated-remote/vercel/0.21.4/skills/nextjs",
+        "managed/codex-plugins/openai-curated-remote/vercel/0.21.4/skills/react-best-practices",
+        "managed/codex-plugins/openai-curated-remote/vercel/0.21.4/skills/agent-browser-verify",
+        "managed/codex-plugins/openai-primary-runtime/documents/26.921.10847/skills/documents",
+        "managed/codex-plugins/openai-primary-runtime/pdf/26.921.10847/skills/pdf",
+        "managed/codex-plugins/openai-primary-runtime/presentations/26.921.10847/skills/presentations",
+        "managed/codex-plugins/openai-primary-runtime/spreadsheets/26.921.10847/skills/spreadsheets"
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reusable Prompt Designer"
+  short_description: "Turn repeated work into robust reusable prompts"
+  default_prompt: "Use $reusable-prompt-designer to turn this repeated workflow into a reliable prompt."

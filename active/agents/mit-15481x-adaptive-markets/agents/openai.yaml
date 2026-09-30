@@ -1,0 +1,8 @@
+interface:
+  display_name: "MIT 15.481x Adaptive Markets"
+  short_description: "Hedge-fund ecology and market adaptation"
+  default_prompt: "Use $mit-15481x-adaptive-markets to analyze this market or hedge-fund claim as a falsifiable adaptive mechanism."
+
+policy:
+  allow_implicit_invocation: true
+

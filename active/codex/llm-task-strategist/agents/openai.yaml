@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Task Strategist"
+  short_description: "Choose models, tools, context, and checks"
+  default_prompt: "Use $llm-task-strategist to choose the right LLM workflow for this task."

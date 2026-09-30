@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research to Skill"
+  short_description: "Research-backed skill trees and evaluations"
+  default_prompt: "Use $research-to-skill to turn these sources into a bounded, testable Codex skill design, using Graphify and ICM Architect only when the relationships justify them."

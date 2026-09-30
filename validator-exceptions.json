@@ -1,0 +1,7 @@
+{
+  "managed/codex-plugins/awesome-codex-plugins/codebase-recon/1.0.0/skills/codebase-recon": "Upstream declares the additional compatibility frontmatter key.",
+  "managed/codex-plugins/openai-curated/cloudflare/1e285826/skills/cloudflare": "Upstream declares the additional references frontmatter key.",
+  "managed/codex-plugins/openai-curated/zotero/1e285826/skills/zotero": "Upstream uses the display name Zotero instead of a lowercase package name.",
+  "managed/codex-plugins/openai-primary-runtime/presentations/26.921.10847/skills/presentations": "Upstream uses the display name Presentations instead of a lowercase package name.",
+  "managed/codex-plugins/openai-primary-runtime/spreadsheets/26.921.10847/skills/spreadsheets": "Upstream uses the display name Spreadsheets instead of a lowercase package name."
+}

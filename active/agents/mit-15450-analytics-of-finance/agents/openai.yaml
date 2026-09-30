@@ -1,0 +1,8 @@
+interface:
+  display_name: "MIT 15.450 Analytics of Finance"
+  short_description: "Integrated advanced quantitative finance"
+  default_prompt: "Use $mit-15450-analytics-of-finance to connect estimation, uncertainty, and this pricing or optimization decision."
+
+policy:
+  allow_implicit_invocation: true
+

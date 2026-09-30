@@ -1,0 +1,8 @@
+interface:
+  display_name: "MIT 18.642 Quantitative Finance"
+  short_description: "Course-grounded mathematics for finance"
+  default_prompt: "Use $mit-18642-quant-finance to guide me through this 18.642 topic with explicit assumptions and verification."
+
+policy:
+  allow_implicit_invocation: true
+

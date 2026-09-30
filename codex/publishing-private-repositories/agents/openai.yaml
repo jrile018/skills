@@ -1,3 +1,0 @@
-interface:
-  display_name: "Publishing Private Repositories"
-  short_description: "Publish private repositories without leaking data"

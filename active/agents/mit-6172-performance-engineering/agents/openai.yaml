@@ -1,0 +1,8 @@
+interface:
+  display_name: "MIT 6.172 Performance Engineering"
+  short_description: "Measured, cross-layer code optimization"
+  default_prompt: "Use $mit-6172-performance-engineering to profile this workload and verify the smallest safe optimization."
+
+policy:
+  allow_implicit_invocation: true
+

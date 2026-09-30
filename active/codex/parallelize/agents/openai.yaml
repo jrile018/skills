@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallelize"
+  short_description: "Pressure-test parallel-work proposals against Brooks's Law and Parnas information hiding"
+  default_prompt: "Use $parallelize to stress-test my plan to split [work] across [streams or engineers]"

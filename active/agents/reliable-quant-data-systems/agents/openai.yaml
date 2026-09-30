@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reliable Quant Data Systems"
+  short_description: "Design correct and recoverable quant data systems"
+  default_prompt: "Use $reliable-quant-data-systems to design or audit this quantitative data system."

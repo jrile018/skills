@@ -1,0 +1,7 @@
+interface:
+  display_name: "Stanford CS106L C++ Memory"
+  short_description: "Modern C++ ownership and lifetime correctness"
+  default_prompt: "Use $stanford-cs106l-cpp-memory to diagnose this C++ ownership or lifetime problem and verify the repair."
+
+policy:
+  allow_implicit_invocation: true
